@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2043
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{63810A94-FAFD-4E71-BDEC-3027E5A2D7CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpringAopDemo", "SpringAopDemo\SpringAopDemo.csproj", "{9EA96F0C-D534-474F-B09E-A6C648BFFD2D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{63810A94-FAFD-4E71-BDEC-3027E5A2D7CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63810A94-FAFD-4E71-BDEC-3027E5A2D7CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63810A94-FAFD-4E71-BDEC-3027E5A2D7CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9EA96F0C-D534-474F-B09E-A6C648BFFD2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EA96F0C-D534-474F-B09E-A6C648BFFD2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EA96F0C-D534-474F-B09E-A6C648BFFD2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EA96F0C-D534-474F-B09E-A6C648BFFD2D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

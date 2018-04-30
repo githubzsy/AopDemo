@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace Demo
 {
-    class Program
+    class MyClass
     {
-        static void Main(string[] args)
+        [MyAspect]
+        public void MyMehtod()
         {
-            var obj = new MyClass();
-            obj.MyMehtod();
-            Console.Read();
+            Console.WriteLine("Hello,AOP!");
         }
     }
 }
